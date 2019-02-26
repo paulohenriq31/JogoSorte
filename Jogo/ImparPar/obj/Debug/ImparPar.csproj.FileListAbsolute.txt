@@ -1,0 +1,10 @@
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\bin\Debug\ImparPar.exe.config
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\bin\Debug\ImparPar.exe
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\bin\Debug\ImparPar.pdb
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.ImparPar.resources
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.Properties.Resources.resources
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.csproj.GenerateResource.cache
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.exe
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.pdb
+C:\Users\phhen\Documents\Guto\Jogo\ImparPar\obj\Debug\ImparPar.csprojAssemblyReference.cache

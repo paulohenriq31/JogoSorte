@@ -1,0 +1,10 @@
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.csprojAssemblyReference.cache
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.Properties.Resources.resources
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.csproj.GenerateResource.cache
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\bin\Debug\Adivinhacao.exe.config
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\bin\Debug\Adivinhacao.exe
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\bin\Debug\Adivinhacao.pdb
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.Adivinhacao.resources
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.exe
+C:\Users\phhen\Documents\Guto\Jogo\Adivinhacao\obj\Debug\Adivinhacao.pdb
